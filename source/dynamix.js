@@ -97,4 +97,4 @@ draw= function() {
     cursorset(1); //Always Goes Last <----
  };
 }; //Main Dynamix Desktop
-dynamix();
+
